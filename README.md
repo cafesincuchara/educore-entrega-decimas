@@ -1,3 +1,7 @@
+Nombre del estudiante: Vicente Herrera
+
+!SE CREO CON JPA  
+
 1. Listar todos los registros
 Obtiene la lista completa de todos los registros almacenados en la base de datos.
 
