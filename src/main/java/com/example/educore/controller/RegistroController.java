@@ -26,7 +26,7 @@ public class RegistroController {
             return ResponseEntity.ok(service.obtenerPorId(id));
         } catch (RuntimeException e) {
             return ResponseEntity.status(HttpStatus.NOT_FOUND).body(e.getMessage());
-        }
+        }   
     }
 
     @PostMapping
