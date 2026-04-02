@@ -1,6 +1,10 @@
 Nombre del estudiante: Vicente Herrera
 
 !SE CREO CON JPA  
+Aqui dejo una captura del H2 funcionando:
+
+<img width="609" height="371" alt="image" src="https://github.com/user-attachments/assets/0d4462de-92a0-41e2-9c2a-c3852eb46cd7" />
+
 
 1. Listar todos los registros
 Obtiene la lista completa de todos los registros almacenados en la base de datos.
